@@ -31,7 +31,7 @@ Metrics and KPIs: Defined and calculated key performance indicators (KPIs) such 
 Report Design: Developed a Power BI report featuring interactive dashboards with visualizations like bar charts to show sales performance across different dimensions. 
 
 ### Result
-![amazon dashboard](http://example.com/image.png)
+![amazon dashboard](https://github.com/angelicamerced/Amazon-Product-Sales-Dashboard-USA-/blob/main/amazon.jpg)
 
 The revenue from discounted products, totaling $4.65 billion, surpasses the revenue from products sold at their original prices, which amounts to $2.7 billion, by approximately 72.2%. 
 
